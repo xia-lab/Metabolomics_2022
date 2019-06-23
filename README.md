@@ -1,5 +1,7 @@
 # Metabolomics 2019: Multi-Omics Integration and System Metabolomics
 
+![alt text](https://github.com/xia-lab/Metabolomics2019/blob/master/metabolomics2019.png)
+
 For this tutorial, we will be covering three workflows: 1) Systems Metabolomics, 2) Metabolomics + Microbiome Data Integration, and 3) Metabolomics + Transcriptomics Data Integration. Details for each workflow are below.
 
 ## 1) Systems Metabolomics
