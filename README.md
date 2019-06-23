@@ -4,13 +4,13 @@
 
 For this tutorial, we will be covering three workflows: 1) Systems Metabolomics, 2) Metabolomics + Microbiome Data Integration, and 3) Metabolomics + Transcriptomics Data Integration. Details for each workflow are below.
 
-## 1) Systems Metabolomics
+## 1) Systems Metabolomics [Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx)
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/ibd_data_june23.zip).
 
-The aim of this workflow is use the MS Peaks to Pathways module to predict pathway-level activity from a subset of fecal metabolome samples from pediatric Crohn’s Disease (CD) patients. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in negative ion mode) of fecal samples from 24 pediatric CD patients and 24 healthy controls. Follow [this tutorial]() to perform the System Metabolomics workflow.
+The aim of this workflow is use the MS Peaks to Pathways module to predict pathway-level activity from a subset of fecal metabolome samples from pediatric Crohn’s Disease (CD) patients. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in negative ion mode) of fecal samples from 24 pediatric CD patients and 24 healthy controls. Follow [this tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx) to perform the System Metabolomics workflow.
 
-## 2) Metabolomics + Microbiome Data Integration
+## 2) Metabolomics + Microbiome Data Integration ([MicrobiomeAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)) ([MetaboAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx))
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/crc_data_june23.zip).
 
@@ -18,7 +18,7 @@ The aim of this workflow is to perform statistical analysis and data integration
 
 First begin by performing shotgun data analysis to obtain a list of significantly enriched KOs ([download ppt here](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)). Then use MetaboAnalyst to identify the metabolomic CRC signnature ([download ppt here](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)). Finally, perform multi-omics data integration using the Network Explorer module within MetaboAnalyst.
 
-## 3) Metabolomics + Transcriptomics Data Integration
+## 3) Metabolomics + Transcriptomics Data Integration ([NetworkAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/transcriptomics_networkanalyst.pptx)) ([OmicsNet Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx))
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/breast_cancer.zip).
 
