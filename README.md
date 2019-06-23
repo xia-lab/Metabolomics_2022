@@ -38,3 +38,6 @@ To explore individual Analyst's (i.e. MetaboAnalyst, MicrobiomeAnalyst and Netwo
 
 ### NetworkAnalyst
 [NetworkAnalyst for Statistical, Visual and Network-based Approaches for Meta-analysis of Expression Data](https://www.ncbi.nlm.nih.gov/pubmed/25950236)
+
+### OmicsNet
+[Using OmicsNet for Network Integration and 3D Visualization](https://currentprotocols.onlinelibrary.wiley.com/doi/epdf/10.1002/cpbi.69)
