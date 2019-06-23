@@ -4,19 +4,19 @@
 
 For this tutorial, we will be covering three workflows: 1) Systems Metabolomics, 2) Metabolomics + Microbiome Data Integration, and 3) Metabolomics + Transcriptomics Data Integration. Details for each workflow are below.
 
-## 1) Systems Metabolomics [Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx)
+## 1) Systems Metabolomics ([Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx))
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/ibd_data_june23.zip).
 
-The aim of this workflow is use the MS Peaks to Pathways module to predict pathway-level activity from a subset of fecal metabolome samples from pediatric Crohn’s Disease (CD) patients. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in negative ion mode) of fecal samples from 24 pediatric CD patients and 24 healthy controls. Follow [this tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx) to perform the System Metabolomics workflow.
+The aim of this workflow is use the MS Peaks to Pathways module in [MetaboAnalyst](https://www.metaboanalyst.ca/) to predict pathway-level activity from a subset of fecal metabolome samples from pediatric Crohn’s Disease (CD) patients. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in negative ion mode) of fecal samples from 24 pediatric CD patients and 24 healthy controls. Follow [this tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx) to perform the System Metabolomics workflow.
 
-## 2) Metabolomics + Microbiome Data Integration ([MicrobiomeAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)) ([MetaboAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx))
+## 2) Metabolomics + Microbiome Data Integration ([MicrobiomeAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)) ([MetaboAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)) ([OmicsNet Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx))
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/crc_data_june23.zip).
 
-The aim of this workflow is to perform statistical analysis and data integration on a subset of colorectal cancer (CRC) samples from a recent paper by [Yachida et al](https://www.nature.com/articles/s41591-019-0458-7). The data consists of shotgun metagenomic + targeted metabolomic analysis of fecal metabolome samples of 149 healthy subjects and 68 stage 3 or 4 CRC patients. 
+The aim of this workflow is to perform statistical analysis and data integration on a subset of colorectal cancer (CRC) samples from a recent paper by [Yachida et al](https://www.nature.com/articles/s41591-019-0458-7). The data consists of shotgun metagenomic + targeted metabolomic analysis of fecal metabolome samples of 149 healthy subjects and 68 Stage 3 or 4 CRC patients. 
 
-First begin by performing shotgun data analysis to obtain a list of significantly enriched KOs ([download ppt here](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)). Then use MetaboAnalyst to identify the metabolomic CRC signnature ([download ppt here](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)). Finally, perform multi-omics data integration using the Network Explorer module within MetaboAnalyst.
+First begin by performing shotgun data analysis in [MicrobiomeAnalyst](https://www.microbiomeanalyst.ca/) to obtain a list of significantly enriched KOs. Then use [MetaboAnalyst](https://www.metaboanalyst.ca/) to identify the metabolomic CRC signature. Finally, perform multi-omics data integration using the Network Explorer module within [MetaboAnalyst](https://www.metaboanalyst.ca/) or with [OmicsNet](https://www.omicsnet.ca/).
 
 ## 3) Metabolomics + Transcriptomics Data Integration ([NetworkAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/transcriptomics_networkanalyst.pptx)) ([OmicsNet Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx))
 
@@ -24,7 +24,7 @@ For this workflow, users will first need to download the example data [here](htt
 
 The aim of this workflow is to perform statistical analysis and data integration on a subset of breast cancer samples from a paper by [Terunuma et al](https://www.ncbi.nlm.nih.gov/pubmed/24316975). The data consists of untargeted metabolomics (Metabolon) of 352 known metabolites and microarrary analysis (Affymetrix Human Gene 1.0 ST Array) of the tissue samples. Tissue samples were obtained from 67 human breast tumors and 65 tumor-adjacent noncancerous tissue samples.
 
-To begin, perform microarray data analysis using NetworkAnalyst to obtain a list of enriched genes ([download ppt here](https://github.com/xia-lab/Metabolomics2019/blob/master/transcriptomics_networkanalyst.pptx)). Next, use MetaboAnalyst to obtain the list of enriched metabolites ([download ppt here](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)). Note that though this pptx presents a different dataset, the same workflow can be applied to the breast cancer data. Finally, perform multi-omics data integration and 3D visualization using OmicsNet ([download ppt here](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx)).
+To begin, perform microarray data analysis using [NetworkAnalyst](https://www.networkanalyst.ca) to obtain a list of enriched genes. Next, use [MetaboAnalyst](https://www.metaboanalyst.ca/) to obtain the list of enriched metabolites. Note that though this pptx presents a different dataset, the same workflow can be applied to the breast cancer data. Finally, perform multi-omics data integration and 3D visualization using [OmicsNet](https://www.omicsnet.ca/).
 
 ## Additional Information
 
