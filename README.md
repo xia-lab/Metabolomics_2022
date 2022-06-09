@@ -8,13 +8,17 @@ For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spect
 
 <br/>
 
-## 1) LC-MS Spectra Processing and Annotation ([Tutorial](https://dev.metaboanalyst.ca/resources/data/1_Raw%20Spectral%20Processing.pdf))
+## 1) LC-MS Spectra Processing and Annotation
 
 The aim of this workflow is use the **LC-MS Spectra Processing module** in [MetaboAnalyst](https://www.metaboanalyst.ca/) to analyze the raw spectra data from a real-world experiments. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in positive ion mode) of blood samples from 6 malaria semi-immune patients and 6 naive controls. 6 pooled QC samples are also included. In this section, students will learn how to run the auto-optimized raw spectra processing workflow.
 
 For this workflow, users could use the 2nd example directly from the module page or optionally download [here](https://www.dropbox.com/s/ift0zrkh0rx3v80/malaria_raw.zip?dl=0).
 
-## 2) Functional Analysis and Integration ([Functional Analysis Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)) ([MetaboAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)) ([OmicsNet Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx))
+The tutorial of this module is available [here](https://dev.metaboanalyst.ca/resources/data/1_Raw%20Spectral%20Processing.pdf) for further reference. Watch this [video](https://youtu.be/NSwc7Ywvbpw) to see a live demo of raw spectra data processing with MetaboAnalyst.
+
+<br/>
+
+## 2) Functional Analysis and Integration 
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/crc_data_june23.zip).
 
@@ -22,7 +26,11 @@ The aim of this workflow is to perform statistical analysis and data integration
 
 First begin by performing shotgun data analysis in [MicrobiomeAnalyst](https://www.microbiomeanalyst.ca/) to obtain a list of significantly enriched KOs. Then use [MetaboAnalyst](https://www.metaboanalyst.ca/) to identify the metabolomic CRC signature. Finally, perform multi-omics data integration using the Network Explorer module within [MetaboAnalyst](https://www.metaboanalyst.ca/) or with [OmicsNet](https://www.omicsnet.ca/).
 
-## 3) Metabolomics + Transcriptomics Data Integration ([NetworkAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/transcriptomics_networkanalyst.pptx)) ([OmicsNet Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx))
+[Functional Analysis](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)) ([Joint Pathway Analysis](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)
+
+<br/>
+
+## 3) Metabolomics Statistical Analysis with Complex Metadata ([NetworkAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/transcriptomics_networkanalyst.pptx)) 
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/breast_cancer.zip).
 
