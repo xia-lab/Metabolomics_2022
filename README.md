@@ -4,11 +4,11 @@
 
 For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spectra processing and peak annotation, 2) functional analysis and integration with other omics data, and 3) exploratory statistical analysis with complex metadata. Details for each workflow are below.
 
-## 1) LC-MS Spectra Processing and Annotation ([Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx))
+## 1) LC-MS Spectra Processing and Annotation ([Tutorial](https://dev.metaboanalyst.ca/resources/data/1_Raw%20Spectral%20Processing.pdf))
 
-For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/ibd_data_june23.zip).
+For this workflow, users could use the 2nd example or optionally download [here](https://www.dropbox.com/s/ift0zrkh0rx3v80/malaria_raw.zip?dl=0).
 
-The aim of this workflow is use the MS Peaks to Pathways module in [MetaboAnalyst](https://www.metaboanalyst.ca/) to predict pathway-level activity from a subset of fecal metabolome samples from pediatric Crohn’s Disease (CD) patients. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in negative ion mode) of fecal samples from 24 pediatric CD patients and 24 healthy controls. Follow [this tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx) to perform the System Metabolomics workflow.
+The aim of this workflow is use the **LC-MS Spectra Processing module** in [MetaboAnalyst](https://www.metaboanalyst.ca/) to predict pathway-level activity from a subset of fecal metabolome samples from pediatric Crohn’s Disease (CD) patients. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in negative ion mode) of fecal samples from 24 pediatric CD patients and 24 healthy controls. Follow [this tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/systems_metabolomics_metaboanalyst.pptx) to perform the System Metabolomics workflow.
 
 ## 2) Functional Analysis and Integration ([Functional Analysis Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)) ([MetaboAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)) ([OmicsNet Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx))
 
