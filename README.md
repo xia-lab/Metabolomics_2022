@@ -42,6 +42,7 @@ The aim of this workflow is to perform statistical analysis based on complex met
 
 For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/Statistical_analysis_metadata.zip).
 
+<br/>
 
 ## Additional Reference Documents
 
