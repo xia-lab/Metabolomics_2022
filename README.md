@@ -1,6 +1,6 @@
-# Metabolomics 2019: System Metabolomics and Multi-Omics Integration
+# Metabolomics 2022: Spectra processing, functional integration and covariate adjustment of global metabolomics data using MetaboAnalyst 5.0
 
-![alt text](https://github.com/xia-lab/Metabolomics2019/blob/master/metabolomics2019.png)
+![alt text](https://github.com/xia-lab/Metabolomics2019/blob/master/metabolomics2022_xialab.png)
 
 For this tutorial, we will be covering three workflows: 1) Systems Metabolomics, 2) Metabolomics + Microbiome Data Integration, and 3) Metabolomics + Transcriptomics Data Integration. Details for each workflow are below.
 
