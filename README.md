@@ -6,6 +6,8 @@ For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spect
 
 #### <ins>Before you start this tutorial, please download our latest Protocols for MetaboAnalyst 5.0 from [here](https://www.dropbox.com/s/q2ppaa34xrwm0y1/NP-MetaboAnalyst-2022.pdf?dl=0).</ins>
 
+<br/>
+
 ## 1) LC-MS Spectra Processing and Annotation ([Tutorial](https://dev.metaboanalyst.ca/resources/data/1_Raw%20Spectral%20Processing.pdf))
 
 The aim of this workflow is use the **LC-MS Spectra Processing module** in [MetaboAnalyst](https://www.metaboanalyst.ca/) to analyze the raw spectra data from a real-world experiments. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in positive ion mode) of blood samples from 6 malaria semi-immune patients and 6 naive controls. 6 pooled QC samples are also included. In this section, students will learn how to run the auto-optimized raw spectra processing workflow.
