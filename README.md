@@ -36,13 +36,12 @@ The tutorials for this modules are available: [Joint Pathway Analysis](https://w
 
 <br/>
 
-## 3) Metabolomics Statistical Analysis with Complex Metadata ([NetworkAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/transcriptomics_networkanalyst.pptx)) 
+## 3) Metabolomics Statistical Analysis with Complex Metadata
 
-For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/breast_cancer.zip).
+The aim of this workflow is to perform statistical analysis based on complex metadata. Covariate analysis will be used to deal with a metabolomics data, which is highly affected by multiple metadata factos. This study mainly focus on a peak intensity table from a trichloroethylene (TCE) exposure [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100622/) for covariate analysis. The data consists of untargeted metabolomics (a peak table) of 352 known metabolites and a metadata. In details, untargeted metabolomics (LC-MS peak intensity) data from plasma samples of 175 individuals to study trichloroethylene (TCE) exposure has been included. Nine metadata - 6 categorical and 3 numeric was organized for analysis.
 
-The aim of this workflow is to perform statistical analysis and data integration on a subset of breast cancer samples from a paper by [Terunuma et al](https://www.ncbi.nlm.nih.gov/pubmed/24316975). The data consists of untargeted metabolomics (Metabolon) of 352 known metabolites and microarrary analysis (Affymetrix Human Gene 1.0 ST Array) of the tissue samples. Tissue samples were obtained from 67 human breast tumors and 65 tumor-adjacent noncancerous tissue samples.
+For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/Statistical_analysis_metadata.zip).
 
-To begin, perform microarray data analysis using [NetworkAnalyst](https://www.networkanalyst.ca) to obtain a list of enriched genes. Next, use [MetaboAnalyst](https://www.metaboanalyst.ca/) to obtain the list of enriched metabolites. Note that though this pptx presents a different dataset, the same workflow can be applied to the breast cancer data. Finally, perform multi-omics data integration and 3D visualization using [OmicsNet](https://www.omicsnet.ca/).
 
 ## Additional Reference Documents
 
