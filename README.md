@@ -8,7 +8,7 @@ For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spect
 
 The aim of this workflow is use the **LC-MS Spectra Processing module** in [MetaboAnalyst](https://www.metaboanalyst.ca/) to analyze the raw spectra data from a real-world experiments. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in positive ion mode) of blood samples from 6 malaria semi-immune patients and 6 naive controls. 6 pooled QC samples are also included. In this section, students will learn how to run the auto-optimized raw spectra processing workflow.
 
-For this workflow, users could use the 2nd example directly from the module or optionally download [here](https://www.dropbox.com/s/ift0zrkh0rx3v80/malaria_raw.zip?dl=0).
+For this workflow, users could use the 2nd example directly from the module page or optionally download [here](https://www.dropbox.com/s/ift0zrkh0rx3v80/malaria_raw.zip?dl=0).
 
 ## 2) Functional Analysis and Integration ([Functional Analysis Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/SDP_microbiomeanalyst.pptx)) ([MetaboAnalyst Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/targeted_metabolomics_metaboanalyst.pptx)) ([OmicsNet Tutorial](https://github.com/xia-lab/Metabolomics2019/blob/master/using_omicsnet.pptx))
 
@@ -26,18 +26,15 @@ The aim of this workflow is to perform statistical analysis and data integration
 
 To begin, perform microarray data analysis using [NetworkAnalyst](https://www.networkanalyst.ca) to obtain a list of enriched genes. Next, use [MetaboAnalyst](https://www.metaboanalyst.ca/) to obtain the list of enriched metabolites. Note that though this pptx presents a different dataset, the same workflow can be applied to the breast cancer data. Finally, perform multi-omics data integration and 3D visualization using [OmicsNet](https://www.omicsnet.ca/).
 
-## Additional Tutorial Slides
+## Additional Reference Documents
 
-To explore individual Analyst's (i.e. MetaboAnalyst, MicrobiomeAnalyst, NetworkAnalyst and OmicsNet) further, you can follow these protocols below. Do note that these are very comprehensive, providing detailed steps to use all available modules in the tool. 
+To understand more background knowledge on metabolomics data analysis further, you can follow these documents/protocols below. 
 
-### MetaboAnalyst
-[Using MetaboAnalyst 4.0 for Comprehensive and Integrative Metabolomics Data Analysis](https://www.dropbox.com/s/vsmcmvsup85h55u/CPBI_MetaboAnalyst_2019.pdf?dl=0)
+#### MetaboAnalyst & other omics tools
+[Using MetaboAnalyst for Metabolomics Data Analysis](https://www.dropbox.com/s/7uxzeacpgx6zjux/Metabolomics_MetaboAnalyst_Intro_2022.pptx?dl=0)
 
-### MicrobiomeAnalyst
-[Using MicrobiomeAnalyst for comprehensive statistical, functional and meta-analysis of microbiome data](https://www.dropbox.com/s/025wp5p1aelc45f/MicrobiomeAnalyst_Nat_Prot_all_in_one.pdf?dl=0)
+#### Key statistical concepts & approaches
+[General Concepts & Workflow in Omics Data Analysis](https://www.dropbox.com/s/stsp01glned47gg/Metabolomics_Stats_Intro_2022.pptx?dl=0)
 
-### NetworkAnalyst
-[NetworkAnalyst for Statistical, Visual and Network-based Approaches for Meta-analysis of Expression Data](https://www.ncbi.nlm.nih.gov/pubmed/25950236)
-
-### Protocols of Other Modules in MetaboAnalyst
+#### Protocols of Other Modules in MetaboAnalyst
 [Using MetaboAnalyst 4.0 for Comprehensive and Integrative Metabolomics Data Analysis](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpbi.86)
