@@ -13,7 +13,7 @@ For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spect
 - [Introduction and Key Concepts](https://github.com/xia-lab/Metabolomics2019/blob/master/Metabolomics_Stats_Intro_2022.pdf).
 - [Raw Spectra Processing and Functional Analysis](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section1_raw_spectra_functional_analysis.pdf).
 - [Functional Integration of Multi-Omics Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section2_function_multiomics.pdf).
-- [Functional Integration of Multi-Omics Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section3_complex_metadata.pdf).
+- [Covariate Adjustment based on Meta-Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section3_complex_metadata.pdf).
 
 <br/>
 
