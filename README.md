@@ -8,6 +8,15 @@ For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spect
 
 <br/>
 
+# Slides Summary
+
+- [Introduction and Key Concepts](https://github.com/xia-lab/Metabolomics2019/blob/master/Metabolomics_Stats_Intro_2022.pdf).
+- [Raw Spectra Processing and Functional Analysis](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section1_raw_spectra_functional_analysis.pdf).
+- [Functional Integration of Multi-Omics Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section2_function_multiomics.pdf).
+- [Functional Integration of Multi-Omics Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section3_complex_metadata.pdf).
+
+<br/>
+
 ## 1) LC-MS Spectra Processing and Annotation
 
 The aim of this workflow is use the **LC-MS Spectra Processing module** in [MetaboAnalyst](https://www.metaboanalyst.ca/) to analyze the raw spectra data from a real-world experiments. The data was obtained using untargeted metabolomics (Q-Exactive Plus Orbitrap MS in positive ion mode) of blood samples from 6 malaria semi-immune patients and 6 naive controls. 6 pooled QC samples are also included. In this section, students will learn how to run the auto-optimized raw spectra processing workflow.
