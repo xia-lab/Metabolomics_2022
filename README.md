@@ -35,11 +35,11 @@ The first example is from a study of COVID-19 [Ariel et al](https://doi.org/10.1
 
 For this workflow, users will first need to download three example data from the links below: 
 
-- [Transcriptomics Targeted Metabolomics](https://github.com/xia-lab/Metabolomics2019/blob/master/Pathway_Integration_trans_targetedMetabo.zip).
+- [Transcriptomics Targeted Metabolomics](https://github.com/xia-lab/Metabolomics2019/blob/master/Pathway_Integration_trans_targeted.zip).
 
-- [Transcriptomics Global Metabolomics](https://github.com/xia-lab/Metabolomics2019/blob/master/Pathway_Integration_trans_globalMetabo.zip).
+- [Transcriptomics Global Metabolomics](https://github.com/xia-lab/Metabolomics2019/blob/master/Pathway_Integration_trans_global.zip).
 
-- [Multiple Global Metabolomics](https://github.com/xia-lab/Metabolomics2019/blob/master/Pathway_Integration_multipleMetabo.zip).
+- [Multiple Global Metabolomics](https://github.com/xia-lab/Metabolomics2019/blob/master/Pathway_Integration_multiple.zip).
 
 The tutorials for this modules are available: [Joint Pathway Analysis](https://www.metaboanalyst.ca/resources/data/4_Joint%20Pathway%20Analysis.pdf) and [Functional Meta-analysis](https://www.metaboanalyst.ca/resources/data/3_Meta%20Functional%20Analysis.pdf); The video demos of these two modules are available here: [Joint Pathway Analysis](https://youtu.be/CGpIi1RgR9I) and [Functional Meta Analysis](https://youtu.be/LQ8Imra3DgQ).
 
